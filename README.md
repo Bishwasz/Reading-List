@@ -1,4 +1,4 @@
 # Banger
-GEMM (https://siboehm.com/articles/22/pipeline-parallel-training)
+GEMM (https://siboehm.com/articles/22/pipeline-parallel-training)\n
 https://jax-ml.github.io/scaling-book/
 https://salykova.github.io/
