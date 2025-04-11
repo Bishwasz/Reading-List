@@ -15,6 +15,7 @@ https://blog.vllm.ai/2023/06/20/vllm.html<br/>
 https://arxiv.org/pdf/2309.06180<br/>
 
 #CPU Arch<br/>
-https://cseweb.ucsd.edu/~calder/papers/JILP-00-LoadSpec.pdf
+https://cseweb.ucsd.edu/~calder/papers/JILP-00-LoadSpec.pdf<br/>
+https://en.algorithmica.org/hpc/simd/moving/
 
 
