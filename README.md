@@ -12,6 +12,9 @@ https://huyenchip.com/blog/<br/>
 https://en.algorithmica.org/hpc/cpu-cache/sharing/<br/>https://cnugteren.github.io/tutorial/pages/page12.html<br/>
 VLLM<br/>
 https://blog.vllm.ai/2023/06/20/vllm.html<br/>
-https://arxiv.org/pdf/2309.06180
+https://arxiv.org/pdf/2309.06180<br/>
+
+#CPU Arch<br/>
+https://cseweb.ucsd.edu/~calder/papers/JILP-00-LoadSpec.pdf
 
 
