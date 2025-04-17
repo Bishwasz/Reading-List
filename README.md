@@ -3,8 +3,10 @@ GEMM (https://siboehm.com/articles/22/pipeline-parallel-training)<br/>
 https://jax-ml.github.io/scaling-book/<br/>
 https://salykova.github.io/<br/>
 https://siboehm.com/about/<br/>
-https://saurabhalone.com/blogs/llama3/web
-
+https://saurabhalone.com/blogs/llama3/web<br/>
+#rl<br/>
+https://jonathan-hui.medium.com/rl-trust-region-policy-optimization-trpo-explained-a6ee04eeeee9<br/>
+https://jonathan-hui.medium.com/rl-trust-region-policy-optimization-trpo-part-2-f51e3b2e373a<br/>
 
 #interview
 https://huyenchip.com/ml-interviews-book/contents/8.2.1-natural-language-processing.html<br/>
@@ -22,7 +24,7 @@ https://en.algorithmica.org/hpc/simd/moving/<br/>
 https://cseweb.ucsd.edu/~marora/files/papers/REReport_ManishArora.pdf<br/>
 https://people.ece.ubc.ca/aamodt/publications/papers/eltantawy.micro2016.pdf<br/>
 https://lph.ece.utexas.edu/merez/uploads/MattanErez/hpca2013_dpe.pdf<br/>
-# compilers<br/>
+#compilers<br/>
 https://www3.nd.edu/~dthain/compilerbook/
 
 
