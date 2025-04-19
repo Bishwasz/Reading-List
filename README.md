@@ -8,6 +8,9 @@ https://saurabhalone.com/blogs/llama3/web<br/>
 https://jonathan-hui.medium.com/rl-trust-region-policy-optimization-trpo-explained-a6ee04eeeee9<br/>
 https://jonathan-hui.medium.com/rl-trust-region-policy-optimization-trpo-part-2-f51e3b2e373a<br/>
 
+#cpp <br/>
+https://www.learncpp.com/cpp-tutorial/introduction-to-smart-pointers-move-semantics/
+
 #interview
 https://huyenchip.com/ml-interviews-book/contents/8.2.1-natural-language-processing.html<br/>
 https://huyenchip.com/blog/<br/>
