@@ -9,7 +9,9 @@ https://jonathan-hui.medium.com/rl-trust-region-policy-optimization-trpo-explain
 https://jonathan-hui.medium.com/rl-trust-region-policy-optimization-trpo-part-2-f51e3b2e373a<br/>
 
 #cpp <br/>
-https://www.learncpp.com/cpp-tutorial/introduction-to-smart-pointers-move-semantics/
+https://www.learncpp.com/cpp-tutorial/introduction-to-smart-pointers-move-semantics/<br/>
+#signal processing <br/>
+https://brianmcfee.net/dstbook-site/content/ch05-fourier/intro.html
 
 #interview
 https://huyenchip.com/ml-interviews-book/contents/8.2.1-natural-language-processing.html<br/>
