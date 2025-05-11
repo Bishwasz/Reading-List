@@ -29,6 +29,7 @@ https://en.algorithmica.org/hpc/simd/moving/<br/>
 https://cseweb.ucsd.edu/~marora/files/papers/REReport_ManishArora.pdf<br/>
 https://people.ece.ubc.ca/aamodt/publications/papers/eltantawy.micro2016.pdf<br/>
 https://lph.ece.utexas.edu/merez/uploads/MattanErez/hpca2013_dpe.pdf<br/>
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf<br/>
 #compilers<br/>
 https://www3.nd.edu/~dthain/compilerbook/<br/>
 https://cp-algorithms.com/linear_algebra/determinant-gauss.html
