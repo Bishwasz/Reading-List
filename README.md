@@ -26,6 +26,7 @@ https://cseweb.ucsd.edu/~calder/papers/JILP-00-LoadSpec.pdf<br/>
 https://en.algorithmica.org/hpc/simd/moving/<br/>
 #Statistics <br/>
 https://thestatsmap.com/sequential-statistics<br/>
+http://joschu.net/blog/kl-approx.html<br/>
 #GPU Arch <br/>
 https://cseweb.ucsd.edu/~marora/files/papers/REReport_ManishArora.pdf<br/>
 https://people.ece.ubc.ca/aamodt/publications/papers/eltantawy.micro2016.pdf<br/>
