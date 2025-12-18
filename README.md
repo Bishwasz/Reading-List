@@ -66,6 +66,7 @@
 
 ## Compilers
 - Compiler Construction Book (Thain): https://www3.nd.edu/~dthain/compilerbook/
+- Blogs on llvm/mlir with focus on ML Compiler: https://www.lei.chat/posts/
 
 ---
 
