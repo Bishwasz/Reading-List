@@ -34,18 +34,15 @@
 
 ---
 
-## Signal Processing
-- Fourier Transform (Brian McFee): https://brianmcfee.net/dstbook-site/content/ch05-fourier/intro.html
-
----
-
 ## Numerical Methods / Linear Algebra
 - Gaussian Elimination & Determinant: https://cp-algorithms.com/linear_algebra/determinant-gauss.html
+- Fourier Transform (Brian McFee): https://brianmcfee.net/dstbook-site/content/ch05-fourier/intro.html
+
 
 ---
 
 ## Statistics
-- Sequential Statistics: https://thestatsmap.com/sequential-statistics
+- General Statistics: https://thestatsmap.com
 - KL Approximation: http://joschu.net/blog/kl-approx.html
 
 ---
