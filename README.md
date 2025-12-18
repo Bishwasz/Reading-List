@@ -1,7 +1,7 @@
 # Banger Reads
 
 ## General Good Blogs / Authors
-- Siboehm (About / Writing): https://siboehm.com/about/
+- Siboehm (Performance / Writing): https://siboehm.com/about/
 - Salykova (Systems / ML): https://salykova.github.io/
 - Huỳnh Chip’s Blog: https://huyenchip.com/blog/
 - LLaMA 3 Web Notes: https://saurabhalone.com/blogs/llama3/web
