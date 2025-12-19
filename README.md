@@ -5,6 +5,7 @@
 - Salykova (Systems / ML): https://salykova.github.io/
 - Huỳnh Chip’s Blog: https://huyenchip.com/blog/
 - LLaMA 3 Web Notes: https://saurabhalone.com/blogs/llama3/web
+- diffusion: https://zlthinker.github.io/diffusion-model.html
 
 ---
 
