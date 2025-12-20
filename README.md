@@ -6,6 +6,7 @@
 - Huỳnh Chip’s Blog: https://huyenchip.com/blog/
 - LLaMA 3 Web Notes: https://saurabhalone.com/blogs/llama3/web
 - diffusion: https://zlthinker.github.io/diffusion-model.html
+- Cmput structure (memory, compilers, OS concepts)- https://computationstructures.org/lectures/caches/caches.html#22
 
 ---
 
