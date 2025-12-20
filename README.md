@@ -55,6 +55,7 @@
 ---
 
 ## GPU Architecture
+- Memory Coalescing - https://homepages.math.uic.edu/~jan/mcs572f16/mcs572notes/lec35.html#accessing-global-and-shared-memory
 - GPU Architecture Report (Arora): https://cseweb.ucsd.edu/~marora/files/papers/REReport_ManishArora.pdf
 - Warp-Level Parallelism (MICRO 2016): https://people.ece.ubc.ca/aamodt/publications/papers/eltantawy.micro2016.pdf
 - Dynamic Parallelism (HPCA 2013): https://lph.ece.utexas.edu/merez/uploads/MattanErez/hpca2013_dpe.pdf
