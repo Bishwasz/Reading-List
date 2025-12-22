@@ -62,6 +62,7 @@
 - Berkeley GPU Research Report: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf
 - GPU Microarchitecture (IEEE): https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4523358
 - summary of all aspects of gpu- https://modal.com/gpu-glossary
+- nvidia eng blog on cuda - https://leimao.github.io/tags/CUDA/
 
 ---
 
