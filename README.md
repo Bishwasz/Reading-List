@@ -46,6 +46,7 @@
 ## Statistics
 - General Statistics: https://thestatsmap.com
 - KL Approximation: http://joschu.net/blog/kl-approx.html
+- stats + ml: https://agustinus.kristia.de/blog/
 
 ---
 
