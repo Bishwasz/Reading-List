@@ -1,4 +1,4 @@
-# Banger Reads
+#  Reads
 
 ## General Good Blogs / Authors
 - Siboehm (Performance / Writing): https://siboehm.com/about/
