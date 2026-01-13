@@ -75,6 +75,12 @@ https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication
 - Blogs on llvm/mlir with focus on ML Compiler: https://www.lei.chat/posts/
 
 ---
+---
 
+## Cmput Vision
+- https://visionbook.mit.edu/2d_motion_from_3d.html 
+- https://web.stanford.edu/class/cs231a/
+
+---
 ## Interviews / ML Practice
 - ML Interviews (NLP): https://huyenchip.com/ml-interviews-book/contents/8.2.1-natural-language-processing.html
