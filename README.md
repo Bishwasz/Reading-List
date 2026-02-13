@@ -55,6 +55,7 @@
 ## CPU Architecture
 - Load Speculation (Calder et al.): https://cseweb.ucsd.edu/~calder/papers/JILP-00-LoadSpec.pdf
 - COMPUTER ARCHITECTURE A Quantitative Approach -https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture,%20Sixth%20Edition_%20A%20Quantitative%20Approach%20(%20PDFDrive%20).pdf
+- Berkley in depth grad course on ARCH: https://people.eecs.berkeley.edu/~pattrsn/252F96/
 
 ---
 
