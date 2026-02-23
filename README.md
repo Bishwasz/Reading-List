@@ -77,6 +77,7 @@ https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication
 - https://www.cs.cornell.edu/courses/cs4120/2022sp/
 - Blogs on llvm/mlir with focus on ML Compiler: https://www.lei.chat/posts/
 -  https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html
+-  https://rocm.blogs.amd.com/software-tools-optimization/amdgcn-isa/README.html
 
 ---
 ---
