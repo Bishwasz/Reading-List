@@ -45,6 +45,7 @@
 ---
 
 ## Statistics / ML / gen
+- DL with code - https://d2l.ai/chapter_recurrent-modern/gru.html
 - General Statistics: https://thestatsmap.com
 - KL Approximation: http://joschu.net/blog/kl-approx.html
 - stats + ml: https://agustinus.kristia.de/blog/
