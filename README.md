@@ -70,6 +70,7 @@ https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication
 - GPU Microarchitecture (IEEE): https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4523358
 - summary of all aspects of gpu- https://modal.com/gpu-glossary
 - nvidia eng blog on cuda - https://leimao.github.io/tags/CUDA/
+- Mini GPU verilog - https://medium.com/@fareedkhandev/62bb08f2d1d1
 
 ---
 
