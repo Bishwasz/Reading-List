@@ -75,11 +75,15 @@ https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication
 ---
 
 ## Compilers
-- Cornell course focusing on backend: https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/
-- https://www.cs.cornell.edu/courses/cs4120/2022sp/
-- Blogs on llvm/mlir with focus on ML Compiler: https://www.lei.chat/posts/
--  https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html
--  https://rocm.blogs.amd.com/software-tools-optimization/amdgcn-isa/README.html
+
+### LLVM / MLIR
+- Blogs on LLVM/MLIR with a focus on ML compilers: https://www.lei.chat/posts/
+- https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html
+- https://rocm.blogs.amd.com/software-tools-optimization/amdgcn-isa/README.html
+
+### Courses
+- Cornell backend compiler course (CS 6120): https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/
+- Cornell compiler course (CS 4120): https://www.cs.cornell.edu/courses/cs4120/2022sp/
 
 ---
 ---
