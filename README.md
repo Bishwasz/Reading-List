@@ -71,7 +71,8 @@ https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication
 - summary of all aspects of gpu- https://modal.com/gpu-glossary
 - nvidia eng blog on cuda - https://leimao.github.io/tags/CUDA/
 - Mini GPU verilog - https://medium.com/@fareedkhandev/62bb08f2d1d1
-
+## NPU
+- https://courses.cs.washington.edu/courses/cse550/21au/papers/CSE550.Eyeriss.pdf
 ---
 
 ## Compilers
