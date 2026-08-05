@@ -81,13 +81,14 @@ https://mlir.llvm.org/docs/Dialects/Linalg/
 https://www.cs.colostate.edu/~pouchet/doc/pouchet-phdthesis.pdf (polyhedral stuff)
 https://www.cs.colostate.edu/~pouchet/index.html#lectures polyhedral course
 
+
 ### other relevant
 - https://rocm.blogs.amd.com/software-tools-optimization/amdgcn-isa/README.html
 - Blogs on LLVM/MLIR with a focus on ML compilers: https://www.lei.chat/posts/
 - https://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html
 - Cornell backend compiler course (CS 6120): https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/
 - Cornell compiler course (CS 4120): https://www.cs.cornell.edu/courses/cs4120/2022sp/
-
+https://graphics.stanford.edu/papers/brookgpu/brookgpu.pdf
 ---
 ---
 
